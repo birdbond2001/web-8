@@ -1,0 +1,189 @@
+.body-sation{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin: 0px;
+    padding: 0px;
+}
+.page-margin{
+    margin-left: auto;
+    margin-right: auto;
+}
+.page-sation{
+    height: 1200px;
+    width: 1440px;
+}
+#title-logo
+{
+    float: left;
+    width: 120px;
+    height: 40px;
+    margin-left:130px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(252, 248, 248);
+    position: fixed;
+    top: 0;
+    right: 1px;
+    width: 100%;
+  }
+  
+  li {
+    float: right;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+
+  }
+  
+  li a {
+    display: block;
+    color: rgb(12, 11, 11);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+#top-pic
+{
+    width: 1440px;
+    height: 650px;
+    margin-top: 50px;
+}
+.order-sation{
+    background-color: white;
+    height: 350px;
+    text-align: center ;
+}
+.pass-sation{
+    margin-top: 100px;
+    font-size: 40px;
+}
+.pass-smallword
+{
+    font-size: 20px;
+    line-height:15px;
+}
+.order-btn
+{
+    margin-top: 30px;
+    background-color: rgb(66, 136, 228);
+    color: white;
+    width: 300px;
+    height: 90px;
+    font-size: 20px;  
+}
+.footer-pic
+{
+    width: 1440px;
+}
+.discount-pic1{
+    float: left;
+    width: 480px;
+    margin-top: 150px;
+}
+.discount-pic2{
+height: 444px;
+}
+.discount-pic3
+{
+    height: 444px;
+}
+.discount-pic-1{
+height: 444px;
+}
+.discount-pic:hover{
+    background-color: gray;
+}
+.clean{
+    clear: both;
+}
+.green-sation{
+    float: left;
+    margin-left: 280px;
+    margin-top: 50px;
+    margin-right: 30px;  
+}
+.green-smallword{
+    text-align: center;
+    line-height:5px;
+    color: white;
+}
+#input-sation{
+    float: left;   
+}
+.input{
+    margin-top: 40px;
+    
+}
+#input-sation
+{
+    width: 330px;
+    height: 45px;
+}
+#submit-sation{
+    width: 150px;
+    height: 45px;
+    background-color: black;
+    color: white;
+}
+.green-page
+{
+    background-color: green;
+    height: 120px;
+}
+.link-left
+{
+    float: left;
+    margin-left: 250px;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 10px;
+    color: white;
+}
+.link-right{
+    
+float: left;
+margin-left: 100px;
+margin-top: 50px;
+text-align: center;
+font-size: 10px;
+color: white;
+}
+.footer-link-pic
+{
+float: left;
+margin-left: 80px;
+margin-top: 50px;
+margin-right: 150px;
+
+
+}
+
+.icon{
+    
+   
+   color: white;
+   margin-top: 50px;
+   padding-left: 10px;
+   
+}
+i:hover{
+    color: green;
+}
+.flooer-page{
+    background-color: rgb(53, 52, 52);
+    height: 350px;;
+}
+.footer-smallword:hover{
+    color: green;
+}
+.footer{
+    margin-top: 160px;
+    margin-left: 80px;
+    text-align: center;
+    color: white;
+}
